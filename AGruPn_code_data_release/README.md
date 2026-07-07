@@ -13,7 +13,6 @@ The release is limited to code and data. It includes public preprocessing, regim
 - `code/metrics/`: metric and regime-switching comparison scripts.
 - `code/figure_generation/`: scripts that regenerate public analysis figures from the released CSV files.
 - `data/interpolation/`: one-minute and ten-minute wind-speed interpolation data.
-- `data/prediction_results/`: released prediction sequences for all, normal, and gust regimes.
 - `data/regime_evaluation/`: Bollinger-regime parameter and consistency data.
 - `data/vote_consistency/`: ten-minute voting-consistency data.
 
